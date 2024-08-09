@@ -26,7 +26,7 @@ Before deploying the contract, you can update the following attributes in the de
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/nikandr-surkov/Sample-Ton-Jetton-Contract.git
+    https://github.com/Ashwin-Selvaraj/Ton-Jetton-Implementation-Tact.git
     ```
 
 2. **Navigate to the Project Directory**:
